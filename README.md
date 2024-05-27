@@ -1,4 +1,4 @@
 Link : https://daniloanndrade.github.io/Projeto-Cordel/
 
-# Projeto-Cordel
-Projeto Cordel de Milton Duarte
+# Front-End
+Projeto Cordel de Milton Duarte, Front end web
